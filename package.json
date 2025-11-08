@@ -3,10 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "homepage": ".",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-speech-recognition": "^4.0.1",
-    "homepage": "https://hrithik0406.github.io/AI-Interview-Trainer"
+    "react-router-dom": "^7.9.5",
+    "react-speech-recognition": "^4.0.1"
   },
   "scripts": {
     "start": "react-scripts start",

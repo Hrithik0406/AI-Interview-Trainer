@@ -1,11 +1,10 @@
 import React, { useState } from 'react';
-import Dash from './components/Dash';
-
+import Page from './components/Page';
 
 function App() {
   return (
     <>
-      <Dash />
+      <Page />
     </>
   );
 }
