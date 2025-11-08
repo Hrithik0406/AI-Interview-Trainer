@@ -7,7 +7,7 @@ import Timer from './Timer';
 import ProgressTracker from './ProgressTracker';
 import FeedbackForm from './FeedbackForm';
 import Header from './Header';
-
+import { HashRouter } from 'react-router-dom';
 
 
 function Dash() {

@@ -1,11 +1,16 @@
-import React, { useState } from 'react';
+import React from 'react';
 import Page from './components/Page';
+import { HashRouter } from 'react-router-dom';
 
 function App() {
   return (
-    <>
-      <Page />
-    </>
+    <HashRouter>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/about" element={<About />} />
+        <Route path="*" element={<NotFound />} />
+      </Routes>
+    </HashRouter>
   );
 }
 
