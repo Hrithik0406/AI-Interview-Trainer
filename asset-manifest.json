@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AI-Interview-Trainer/static/css/main.37354232.css",
+    "main.js": "/AI-Interview-Trainer/static/js/main.3f23087c.js",
+    "index.html": "/AI-Interview-Trainer/index.html",
+    "main.37354232.css.map": "/AI-Interview-Trainer/static/css/main.37354232.css.map",
+    "main.3f23087c.js.map": "/AI-Interview-Trainer/static/js/main.3f23087c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37354232.css",
+    "static/js/main.3f23087c.js"
+  ]
+}
